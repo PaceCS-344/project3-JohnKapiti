@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/project3-JohnKapiti/static/css/main.02b6333a.css",
-    "main.js": "/project3-JohnKapiti/static/js/main.f2540786.js",
+    "main.js": "/project3-JohnKapiti/static/js/main.62bb23ca.js",
     "index.html": "/project3-JohnKapiti/index.html",
     "main.02b6333a.css.map": "/project3-JohnKapiti/static/css/main.02b6333a.css.map",
-    "main.f2540786.js.map": "/project3-JohnKapiti/static/js/main.f2540786.js.map"
+    "main.62bb23ca.js.map": "/project3-JohnKapiti/static/js/main.62bb23ca.js.map"
   },
   "entrypoints": [
     "static/css/main.02b6333a.css",
-    "static/js/main.f2540786.js"
+    "static/js/main.62bb23ca.js"
   ]
 }
