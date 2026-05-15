@@ -37,7 +37,7 @@ const Hero = () => {
               href="#resume"
               className="inline-flex items-center justify-center px-8 py-3 border-2 border-purple-600 text-purple-600 font-semibold rounded-lg hover:bg-purple-50 transition-colors"
             >
-              Download Resume
+              View Resume
             </a>
           </div>
         </div>
