@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/project3-JohnKapiti/static/css/main.02b6333a.css",
-    "main.js": "/project3-JohnKapiti/static/js/main.082729f6.js",
+    "main.js": "/project3-JohnKapiti/static/js/main.e4cca43e.js",
+    "static/media/PLASTIC_PROPHET_LOGO_V1_WHITE.png": "/project3-JohnKapiti/static/media/PLASTIC_PROPHET_LOGO_V1_WHITE.0c46c9013cd1cb88534d.png",
     "index.html": "/project3-JohnKapiti/index.html",
     "main.02b6333a.css.map": "/project3-JohnKapiti/static/css/main.02b6333a.css.map",
-    "main.082729f6.js.map": "/project3-JohnKapiti/static/js/main.082729f6.js.map"
+    "main.e4cca43e.js.map": "/project3-JohnKapiti/static/js/main.e4cca43e.js.map"
   },
   "entrypoints": [
     "static/css/main.02b6333a.css",
-    "static/js/main.082729f6.js"
+    "static/js/main.e4cca43e.js"
   ]
 }
